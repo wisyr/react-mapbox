@@ -1,3 +1,8 @@
+## FORKED FROM https://github.com/alex3165/react-mapbox-gl
+## ALL CREDITS TO @alex3165
+
+### It's v 3.8.0 version of react-mapbox-gl with "zoom marker bug" fix.
+
 ![Logo](/logo.png)
 
 # React-mapbox-gl | [Documentation](docs/API.md) | [Demos](http://alex3165.github.io/react-mapbox-gl/demos)
